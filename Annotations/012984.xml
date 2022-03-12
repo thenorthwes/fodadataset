@@ -1,0 +1,38 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>012984.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+  <name>Nut</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>181.8584</xmin>
+    <ymin>91.0401</ymin>
+    <xmax>209.4009</xmax>
+    <ymax>144.9849</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>0</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>True</value>
+    </attribute>
+  </attributes>
+</object>
+</annotation>

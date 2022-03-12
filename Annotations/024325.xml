@@ -1,0 +1,38 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>024325.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+  <name>PaintChip</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>103.6875</xmin>
+    <ymin>38.6111</ymin>
+    <xmax>217.6484</xmax>
+    <ymax>207.4639</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>0</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>True</value>
+    </attribute>
+  </attributes>
+</object>
+</annotation>

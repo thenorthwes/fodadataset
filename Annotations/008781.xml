@@ -1,0 +1,61 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>008781.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+  <name>Label</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>167.7235</xmin>
+    <ymin>55.4917</ymin>
+    <xmax>184.4485</xmax>
+    <ymax>124.4097</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>0</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>False</value>
+    </attribute>
+  </attributes>
+</object>
+<object>
+  <name>Pliers</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>134.6227</xmin>
+    <ymin>116.1972</ymin>
+    <xmax>180.2734</xmax>
+    <ymax>161.0125</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>1</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>False</value>
+    </attribute>
+  </attributes>
+</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>030179.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+  <name>SodaCan</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>126.9313</xmin>
+    <ymin>195.2527</ymin>
+    <xmax>162.5515</xmax>
+    <ymax>253.0445</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>0</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>True</value>
+    </attribute>
+  </attributes>
+</object>
+</annotation>

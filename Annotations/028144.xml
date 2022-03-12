@@ -1,0 +1,38 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>028144.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+  <name>Rock</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>20.1389</xmin>
+    <ymin>21.4063</ymin>
+    <xmax>146.625</xmax>
+    <ymax>85.025</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>0</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>True</value>
+    </attribute>
+  </attributes>
+</object>
+</annotation>

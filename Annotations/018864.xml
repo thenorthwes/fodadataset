@@ -1,0 +1,38 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>018864.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+  <name>Hammer</name>
+  <occluded>0</occluded>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <pose>Unspecified</pose>
+  <bndbox>
+    <xmin>47.5556</xmin>
+    <ymin>130.2031</ymin>
+    <xmax>237.7583</xmax>
+    <ymax>272.5719</ymax>
+  </bndbox>
+  <attributes>
+    <attribute>
+      <name>track_id</name>
+      <value>0</value>
+    </attribute>
+    <attribute>
+      <name>keyframe</name>
+      <value>True</value>
+    </attribute>
+  </attributes>
+</object>
+</annotation>
